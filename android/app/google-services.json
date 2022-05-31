@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "916915644318",
+    "project_id": "ecommerce-app-3efdd",
+    "storage_bucket": "ecommerce-app-3efdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916915644318:android:32e501929083a76da8588f",
+        "android_client_info": {
+          "package_name": "live.angeloseby.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916915644318-fg5sqsoc7rjomkcarbtpsppvgc3rqcn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "live.angeloseby.ecommerce_app",
+            "certificate_hash": "d87764c57f0c0aac2cfe1ee50b61291cf4f2d9b6"
+          }
+        },
+        {
+          "client_id": "916915644318-i2mn5jqusl564ufbnvv15s1m0uv0c007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSu_5ZWmX4324trGU33rfUvA9jfDaQKh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916915644318-i2mn5jqusl564ufbnvv15s1m0uv0c007.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "916915644318-a0oblj8626a8bbudqmtt6061dk3g6g1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "live.angeloseby.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
